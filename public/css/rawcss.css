@@ -1,0 +1,20 @@
+
+
+
+
+.go-top{
+	
+	background: rgb(226, 19, 153);
+	color: #fff;
+	font-weight: bold;
+	font-size: 40px;
+	position: fixed;
+	bottom: 8px;
+	right: 15px;
+	z-index: +999;
+	padding: 0px 7px;
+	display: none;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+}

@@ -1,0 +1,3 @@
+This is a simple Laravel 5.7 CRUD App. This is Created by Md. Laisuzzaman (facebook.com/lzmnn). It's just a demo. Many functionality can be added here.
+My Facebook Id: facebook.com/lzmnn
+E-Mail Address: laisuzzaman@gmail.com
